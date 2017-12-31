@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1490274694 source:c:\users\harun yýldýz\desktop\projem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
+1490274694 source:c:\users\harun yýldýz\desktop\dersler\2.2\prolab2\1\projem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
